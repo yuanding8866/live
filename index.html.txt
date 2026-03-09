@@ -8,7 +8,7 @@
 正在进入直播间...
 <script>
 // 只改这里的直播链接
-var liveUrl = "https://www.facebook.com/你的直播链接";
+var liveUrl = "https://www.facebook.com/61584260252745/videos/805500849274975";
 window.location.replace(liveUrl);
 </script>
 </body>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Live</title>
+</head>
+<body>
+正在进入直播间...
+<script>
+// 只改这里的直播链接
+var liveUrl = "https://www.facebook.com/你的直播链接";
+window.location.replace(liveUrl);
+</script>
+</body>
+</html>
